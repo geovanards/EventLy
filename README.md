@@ -1,4 +1,4 @@
-# Agendador de Eventos
+# EVENT LY - Agendador de Eventos
 
 Um aplicativo web simples para agendar eventos. Permite adicionar eventos com nome e data, exibindo-os em uma lista estilizada.
 
